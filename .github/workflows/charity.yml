@@ -16,6 +16,8 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'ShareCo/apps/charity/**'
 
 env:
   PROJECT_ID: ${{ secrets.GKE_PROJECT }}
