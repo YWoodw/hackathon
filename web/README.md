@@ -1,4 +1,4 @@
-# Share&Care Yvonne comment
+# Share&Care 
 ## Social platform for those who care
 ### Web application source code
 
