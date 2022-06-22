@@ -49,7 +49,6 @@ jobs:
 
     - run: cd charity
     - run: npm install
-    - run: cd src/charities
     - run: npm test
     
     # Setup gcloud CLI
