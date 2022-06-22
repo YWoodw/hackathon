@@ -47,6 +47,8 @@ jobs:
         cluster_name: ${{ env.GKE_CLUSTER }}
         location: ${{ env.GKE_ZONE }}
 
+    - run: cd charity/src
+    - run: npm install
     - run: npm test
     
     # Setup gcloud CLI
