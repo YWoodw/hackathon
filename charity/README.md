@@ -1,5 +1,5 @@
 
-# ShareCare Charity API yvo
+# ShareCare Charity API yvonne
 
 In order to run the API you'll need to set the following environment variables.
 
